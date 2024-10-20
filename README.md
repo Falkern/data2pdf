@@ -1,4 +1,4 @@
-# Data2PDF
+# Data2PDF 📅
 
 A command-line tool for generating PDF reports from CSV files, Excel spreadsheets, or databases using Python. This project leverages popular libraries such as Pandas, SQLAlchemy, FPDF, and OpenPyXL to read data and create formatted PDF reports.
 
