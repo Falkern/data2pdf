@@ -15,8 +15,6 @@ A command-line tool for generating PDF reports from CSV files, Excel spreadsheet
 - pandas
 - sqlalchemy
 - fpdf
-- argparse
-- logging
 - openpyxl
 - tqdm
 
